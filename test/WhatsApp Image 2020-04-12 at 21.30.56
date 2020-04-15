@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>WhatsApp Image 2020-04-12 at 21.30.56.jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\WhatsApp Image 2020-04-12 at 21.30.56.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>747</width>
+		<height>1328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>393</ymin>
+			<xmax>682</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+</annotation>

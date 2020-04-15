@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WhatsApp Image 2020-04-14 at 14.28.02 (7).jpeg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\WhatsApp Image 2020-04-14 at 14.28.02 (7).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>312</ymin>
+			<xmax>719</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>
