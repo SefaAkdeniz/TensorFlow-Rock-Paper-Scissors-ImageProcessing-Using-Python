@@ -14,4 +14,5 @@
 <li>Labeling Images</li>
 <li>XML to CSV</li>
 <li>Generate TF Record File</li>
+<li>Create Labelmap</li>
 </ol>
