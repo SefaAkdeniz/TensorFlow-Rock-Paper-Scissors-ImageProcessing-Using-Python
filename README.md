@@ -8,8 +8,9 @@
  10 Rock Image<br>
  10 Paper Image<br>
  10 Scissors Image<br><br>
-<h2>Content:</h2>
+<h2>Steps:</h2>
 <ol>
 <li>Dataset Collected</li>
 <li>Labeling Images</li>
+<li>XML to CSV</li>
 </ol>
