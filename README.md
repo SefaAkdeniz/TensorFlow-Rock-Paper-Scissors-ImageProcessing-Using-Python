@@ -15,4 +15,5 @@
 <li>XML to CSV</li>
 <li>Generate TF Record File</li>
 <li>Create Labelmap</li>
+<li>Config File</li>
 </ol>
