@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'scissors'
+}
+ 
+item {
+  id: 2
+  name: 'rock'
+}
+ 
+item {
+  id: 3
+  name: 'paper'
+}
