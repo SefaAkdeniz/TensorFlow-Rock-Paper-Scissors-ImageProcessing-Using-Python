@@ -13,4 +13,5 @@
 <li>Dataset Collected</li>
 <li>Labeling Images</li>
 <li>XML to CSV</li>
+<li>Generate TF Record File</li>
 </ol>
