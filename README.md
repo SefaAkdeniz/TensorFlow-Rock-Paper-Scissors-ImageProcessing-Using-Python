@@ -4,6 +4,8 @@
  👉https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md</b></br>
 # TensorFlow Rock Paper Scissors Image Processing Using Python
 <b>Used Programming Language :Python</b><br>
+## Result ;
+![all text](https://github.com/SefaAkdeniz/TensorFlow-Rock-Paper-Scissors-Image-Processing-Using-Python/blob/master/result.jpg)
 ## Train Dataset ;
  42 Rock Image<br>
  42 Paper Image<br>
