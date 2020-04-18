@@ -5,13 +5,13 @@
 # TensorFlow Rock Paper Scissors Image Processing Using Python
 <b>Used Programming Language :Python</b><br>
 ## Requirements ;
-<code>pip install tensorflow-gpu==1.13.2</code>
-<code>pip install pillow</code>
-<code>pip install lxml</code>
-<code>pip install jupyter</code>
-<code>pip install matplotlib</code>
-<code>pip install pandas</code>
-<code>pip install opencv-python</code>
+<code>pip install tensorflow-gpu==1.13.2</code><br>
+<code>pip install pillow</code><br>
+<code>pip install lxml</code><br>
+<code>pip install jupyter</code><br>
+<code>pip install matplotlib</code><br>
+<code>pip install pandas</code><br>
+<code>pip install opencv-python</code><br>
 ## Result ;
 ![all text](https://github.com/SefaAkdeniz/TensorFlow-Rock-Paper-Scissors-Image-Processing-Using-Python/blob/master/result.jpg)
 ## Train Dataset ;
