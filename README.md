@@ -11,18 +11,18 @@
 <code>pip install jupyter</code><br>
 <code>pip install matplotlib</code><br>
 <code>pip install pandas</code><br>
-<code>pip install opencv-python</code><br>
+<code>pip install opencv-python</code>
 ## Result ;
 ![all text](https://github.com/SefaAkdeniz/TensorFlow-Rock-Paper-Scissors-Image-Processing-Using-Python/blob/master/result.jpg)
 ## Train Dataset ;
  42 Rock Image<br>
  42 Paper Image<br>
- 42 Scissors Image<br>
+ 42 Scissors Image
 ## Test Dataset ;
  10 Rock Image<br>
  10 Paper Image<br>
- 10 Scissors Image<br><br>
-<h2>Steps:</h2>
+ 10 Scissors Image
+## Steps ;
 <ol>
 <li>Dataset Collected</li>
 <li>Labeling Images (Using : LabelImg 👉 https://github.com/tzutalin/labelImg)</li>
